@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Grinnell
 description: 'From: University of California Publications in Zoology, Vol. 17, No.
   17'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33531#The-Subspecies-of-the-Mountain-Chickadee
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Animal
